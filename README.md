@@ -13,9 +13,9 @@ Versión detallada del diagrama de caja negra, incluyendo aspectos tecnológicos
 
 ## **Diseños de circuitos en el salón de clase**
 Fotografías que capturan el proceso de los diseños concebidos durante las clase de taller de ingeniería electrónica.
-*Circuito del solenoide:
+* Circuito del solenoide:
 ![](CircuitoSolenoide.jpeg)
-*Circuito de alimentación:
+* Circuito de alimentación:
 ![](Circuitodealimentación.jpeg)
 
 ## **Implemetación**
